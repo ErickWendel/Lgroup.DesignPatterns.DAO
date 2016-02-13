@@ -1,0 +1,4 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.DAO.Test.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.DAO.Test.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\obj\Debug\LGroup.DAO.Test.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\obj\Debug\LGroup.DAO.Test.pdb

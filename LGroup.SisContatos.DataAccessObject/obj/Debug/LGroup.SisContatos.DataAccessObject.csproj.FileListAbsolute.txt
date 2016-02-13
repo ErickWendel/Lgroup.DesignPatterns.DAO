@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.SisContatos.DataAccessObject\bin\Debug\LGroup.SisContatos.DataAccessObject.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.SisContatos.DataAccessObject\bin\Debug\LGroup.SisContatos.DataAccessObject.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.SisContatos.DataAccessObject\obj\Debug\LGroup.SisContatos.DataAccessObject.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.SisContatos.DataAccessObject\obj\Debug\LGroup.SisContatos.DataAccessObject.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.SisContatos.DataAccessObject\obj\Debug\LGroup.SisContatos.DataAccessObject.pdb
