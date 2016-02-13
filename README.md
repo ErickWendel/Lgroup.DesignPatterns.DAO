@@ -1,0 +1,1 @@
+# Lgroup.DesignPatterns.DAO
