@@ -15,5 +15,10 @@ namespace LGroup.DAO.Model
         public String  Email { get; set; }
         public String Telefone { get; set; }
         public DateTime DataNascimento { get; set; }
+
+
+        //Relacionamento
+        public SexoModel Sexo { get; set; }
+        public EstadoCivilModel EstadoCivil { get; set; }
     }
 }

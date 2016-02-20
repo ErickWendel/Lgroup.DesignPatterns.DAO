@@ -2,3 +2,15 @@
 \\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.DAO.Test.pdb
 \\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\obj\Debug\LGroup.DAO.Test.dll
 \\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\obj\Debug\LGroup.DAO.Test.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\nunit.framework.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\nunit.framework.xml
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\obj\Debug\LGroup.DAO.Test.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.DAO.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.SisContatos.DataAccessObject.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.DAO.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.SisContatos.DataAccessObject.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\LGroup.DAO.Test.dll.config
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Test\bin\Debug\EntityFramework.SqlServer.xml

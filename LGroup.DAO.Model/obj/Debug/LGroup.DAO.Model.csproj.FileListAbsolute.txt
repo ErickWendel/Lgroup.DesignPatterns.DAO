@@ -2,3 +2,4 @@
 \\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Model\bin\Debug\LGroup.DAO.Model.pdb
 \\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Model\obj\Debug\LGroup.DAO.Model.dll
 \\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Model\obj\Debug\LGroup.DAO.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.DAO\LGroup.DAO.Model\obj\Debug\LGroup.DAO.Model.csprojResolveAssemblyReference.cache

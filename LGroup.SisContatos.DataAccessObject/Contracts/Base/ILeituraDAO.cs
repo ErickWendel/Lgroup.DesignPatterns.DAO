@@ -13,8 +13,8 @@ namespace LGroup.SisContatos.DataAccessObject.Contracts.Base
     //Isso é um principio da programacao que nos auxilia a nunca levar
     //mais do que o necessario para a classe
     //temos que dividir em interfaces por responsabilidades
-   public interface ILeituraDAO
+   public interface ILeituraDAO<TModel>
     {
-       void Listar();
+       IEnumerable<TModel> Listar();
     }
 }
